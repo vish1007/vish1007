@@ -1,16 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working as a intern in Almabetter
+🌱 I’m currently learning Data Science from Almabetter
 
-<!--
-**vish1007/vish1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as a intern in Almabetter
-- 🌱 I’m currently learning Data Science from Almabetter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
