@@ -88,7 +88,3 @@ Analyzed pricing, availability, and user preferences across NYC Airbnb listings.
 - 💼 [Certifications & Verification](https://certificates.almabetter.com/en/verify/99662061862091?ref=email)
 
 ---
-
-> “Code is the brush. Data is the canvas.” 🎨  
-> — Let’s paint insights together!
-
