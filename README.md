@@ -50,7 +50,7 @@ Used regression models like Ridge, Lasso, and Random Forest to forecast retail s
 
 ---
 
-### 🏠 [NYC Airbnb Booking EDA](https://github.com/vish1007/E.D.A-on-Airbnb-Booking-Analysis/blob/main/EDA_project_on_NYC_Airbnb_booking_analysis__Project_1_by_Data_Digest.ipynb)
+### 🏠 [NYC Airbnb Booking EDA](https://github.com/vish1007/NYC-E.D.A-on-Airbnb-Booking-Analysis)
 *Aug 2022 – Sep 2022*  
 Analyzed pricing, availability, and user preferences across NYC Airbnb listings. Suggested strategies to boost host performance using data-driven visuals.
 
