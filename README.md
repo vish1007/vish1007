@@ -38,7 +38,7 @@ Designed a relational database and interactive dashboard to explore IPL match an
 
 ---
 
-### ❤️ [Cardiovascular Risk Prediction](https://github.com/vish1007/Cardiovascular-Risk-Prediction-/blob/main/Cardivascular_Risk_Prediction.ipynb)
+### ❤️ [Cardiovascular Risk Prediction](https://github.com/vish1007/Cardiovascular-Risk-Prediction-)
 *Dec 2022 – Mar 2023*  
 Developed a robust CHD risk predictor with **89.3% ROC AUC** using Random Forest. Key predictors: smoking, diabetes, hypertension, BMI, education level.
 
