@@ -17,6 +17,7 @@ I'm **Vishal Singh**, a passionate Data Scientist currently pursuing my **M.Tech
 
 ---
 
+---
 ## 🌟 Featured Projects
 
 ### 📌 [Glacier Lake Segmentation from Remote Sensing Data using NAU-Net and SAM](https://github.com/vish1007/GlacialLake-Segmentation-RemoteSensed-UNet-SAM)
