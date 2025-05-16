@@ -19,14 +19,14 @@ I'm **Vishal Singh**, a passionate Data Scientist currently pursuing my **M.Tech
 
 ## 🌟 Featured Projects
 
-### 📌 [Glacier Lake Segmentation from Remote Sensing Data using NAU-Net and SAM](https://github.com/vish1007/Multimodal-Image-Classification-using-Text-Guided-Features-for-Disaster-Response)
+### 📌 [Glacier Lake Segmentation from Remote Sensing Data using NAU-Net and SAM](https://github.com/vish1007/GlacialLake-Segmentation-RemoteSensed-NAU-Net-SAM)
 *June 2024 – June 2025*  
 IEEE IGARSS Paper Accepted 🏅  
 Developed a slope-aware segmentation framework enhanced by the Segment Anything Model (SAM) to detect glacial lakes in the Eastern Himalayas using Landsat imagery and DEM. Achieved significant performance improvements in lake boundary accuracy.
 
 ---
 
-### 📌 [Multimodal Image Classification using Text-Guided Features for Disaster Response](https://github.com/your-repo-link)
+### 📌 [Multimodal Image Classification using Text-Guided Features for Disaster Response](https://github.com/vish1007/Multimodal-Image-Classification-using-Text-Guided-Features-for-Disaster-Response)
 
 *June 2024 – June 2025*
 Disaster AI for Social Media Monitoring 🌐📱
