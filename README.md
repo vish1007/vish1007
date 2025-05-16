@@ -23,9 +23,9 @@ I'm **Vishal Singh**, a passionate Data Scientist currently pursuing my **M.Tech
 *June 2024 – June 2025*  
 IEEE IGARSS Paper Accepted 🏅  
 Developed a slope-aware segmentation framework enhanced by the Segment Anything Model (SAM) to detect glacial lakes in the Eastern Himalayas using Landsat imagery and DEM. Achieved significant performance improvements in lake boundary accuracy.
----
 
 ---
+
 ### 📌 [Multimodal Image Classification using Text-Guided Features for Disaster Response](https://github.com/your-repo-link)
 
 *June 2024 – June 2025*
@@ -40,9 +40,9 @@ Leveraged a publicly available dataset of annotated tweets from real-world disas
 * **Labels**: Human-assigned categories such as *Informative*, *Non-informative*, and *Humanitarian Purposes* (e.g., infrastructure damage, rescue effort).
 
 Achieved high classification accuracy by integrating CLIP-style text-image embeddings, enabling semantic understanding of disaster scenarios.
----
 
 ---
+
 ### 📧 [Email Campaign Effectiveness Prediction](https://github.com/vish1007/Email-Campaign-Effectiveness-Prediction)
 *Aug 2023 – Nov 2023*  
 Predicted email campaign success using engineered features and SMOTE. Achieved a **0.757 F1 Score** with a Random Forest model. Discovered that shorter emails with less imagery are more effective!
