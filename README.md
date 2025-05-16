@@ -6,7 +6,9 @@ I'm **Vishal Singh**, a passionate Data Scientist currently pursuing my **M.Tech
 📍 *Driven by curiosity, powered by code.*
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=yourusername)
 
+---
 ## 👨‍💻 About Me
 
 - 🎓 **Current Program**: M.Tech in Data Science at IIT Palakkad (CGPA: 8.40)
