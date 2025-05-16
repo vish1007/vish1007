@@ -6,7 +6,7 @@ I'm **Vishal Singh**, a passionate Data Scientist currently pursuing my **M.Tech
 📍 *Driven by curiosity, powered by code.*
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile views](https://github.com/vish1007)
 
 ---
 ## 👨‍💻 About Me
