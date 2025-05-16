@@ -19,7 +19,7 @@ I'm **Vishal Singh**, a passionate Data Scientist currently pursuing my **M.Tech
 
 ## 🌟 Featured Projects
 
-### 📌 [Glacial Lake Segmentation with SAM + NAU-Net](https://github.com/vish1007/GlacialLake-Segmentation-RemoteSensed-UNet-SAM)
+### 📌 [Glacier Lake Segmentation from Remote Sensing Data using NAU-Net and SAM](https://github.com/vish1007/GlacialLake-Segmentation-RemoteSensed-UNet-SAM)
 *June 2024 – June 2025*  
 IEEE IGARSS Paper Accepted 🏅  
 Developed a slope-aware segmentation framework enhanced by the Segment Anything Model (SAM) to detect glacial lakes in the Eastern Himalayas using Landsat imagery and DEM. Achieved significant performance improvements in lake boundary accuracy.
