@@ -23,8 +23,6 @@ I'm **Vishal Singh**, a passionate Data Scientist currently pursuing my **M.Tech
 *June 2024 – June 2025*  
 IEEE IGARSS Paper Accepted 🏅  
 Developed a slope-aware segmentation framework enhanced by the Segment Anything Model (SAM) to detect glacial lakes in the Eastern Himalayas using Landsat imagery and DEM. Achieved significant performance improvements in lake boundary accuracy.
-
----
 ---
 ### 📌 [Multimodal Image Classification using Text-Guided Features for Disaster Response](https://github.com/your-repo-link)
 
