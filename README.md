@@ -12,7 +12,7 @@ I'm **Vishal Singh**, a passionate Data Scientist currently pursuing my **M.Tech
 ---
 ## 👨‍💻 About Me
 
-- 🎓 **Current Program**: M.Tech in Data Science at IIT Palakkad (CGPA: 8.40)
+- 🎓 **Current Program**: M.Tech in Data Science at IIT Palakkad (CGPA: 8.51)
 - 💡 **Domain Expertise**: Machine Learning, Deep Learning, NLP, and Geospatial Computer Vision
 - 🌐 **LinkedIn**: [Vishal Singh](https://www.linkedin.com/in/vishal-singh-983821218)
 - 📬 **Email**: 142302009@smail.iitpkd.ac.in
